@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**fardeen-codes/fardeen-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Fardeen 👋
 
-Here are some ideas to get you started:
+### Software Engineer | AI Engineer | Open Source Contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable applications, AI-powered systems, and developer tools. Interested in Agentic AI, LLM evaluation, backend engineering, and open source.
+
+- 🔭 Currently exploring Agentic AI and LLM workflows
+- 🌱 Learning LangGraph, RAG, and distributed systems
+- 💻 Building full-stack and AI-powered applications
+- 🤝 Interested in open-source collaboration
+
+### Tech Stack
+
+JavaScript · TypeScript · Python · React · Next.js · Node.js · Express · MongoDB · PostgreSQL · AWS · Docker
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardeen-codes&show_icons=true&theme=tokyonight)
+
+### Connect With Me
+
+- [GitHub](https://github.com/fardeen-codes)
+- [LinkedIn](YOUR_LINKEDIN_URL)
