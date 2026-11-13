@@ -7,10 +7,10 @@
 
 ### Hi there 👋
 
-I am Fardeen, a Software Engineer and an Open Source Enthusiast
+I'm Fardeen, an engineer and an Open Source Enthusiast
 
 **Currently:**
-- 💼 AI Research Engineer @[Turing](https://turing.com/) — building scalable systems with open source tech
+- 💼 AI Research Eng. @[Turing](https://turing.com/) — building scalable systems with open source tech
 - 🎓 Bachelor's Degree in Comp. Eng. @[Manipal University Jaipur](https://jaipur.manipal.edu/) — Graduated in September 2026
 - 📍 Based in Bengaluru, India
 
